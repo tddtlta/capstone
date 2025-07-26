@@ -1,4 +1,4 @@
-# Lessons Learned: Qwen3 Model Implementation
+# Qwen3 Model Implementation
 
 ## Project Overview
 
